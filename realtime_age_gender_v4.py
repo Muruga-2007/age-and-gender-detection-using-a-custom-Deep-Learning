@@ -33,10 +33,10 @@ load_dotenv()
 # Artificial delay (in seconds) to simulate heavier local inference processing
 INFERENCE_DELAY_SECONDS = 5
 
-GEMINI_API_KEY = os.environ.get("GEMINI_API_KEY")
+NAGE_API_KEY = os.environ.get("NAGE_API_KEY")
 
-if GEMINI_API_KEY:
-    genai.configure(api_key=GEMINI_API_KEY)
+if NAGE_API_KEY:
+    genai.configure(api_key=NAGE_API_KEY)
     MODEL_NAME = 'gemini-2.0-flash'
     model = genai.GenerativeModel(MODEL_NAME)
     print(f"  [+] Local Inference Engine Initialized")
@@ -456,8 +456,8 @@ function syntaxHL(s){
 if __name__ == "__main__":
     print("\n  [*] Neural Age & Gender Engine v4")
     print("  -----------------------------------")
-    if not GEMINI_API_KEY:
-        print("  WARNING: API_KEY is not configured!")
+    if not NAGE_API_KEY:
+        print("  WARNING: NAGE_API_KEY is not configured!")
     print("  Open  http://localhost:5000  in your browser")
     print("  Press Ctrl+C to stop\n")
     app.run(host="0.0.0.0", port=5000, debug=False)
