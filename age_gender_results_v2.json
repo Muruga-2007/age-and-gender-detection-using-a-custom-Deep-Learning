@@ -1,0 +1,706 @@
+{
+  "source": "realtime_camera",
+  "actions": [
+    "age",
+    "gender"
+  ],
+  "started_at": "2026-05-03T22:16:35.398+05:30",
+  "finished_at": "2026-05-03T22:17:00.531+05:30",
+  "frames_analyzed": 33,
+  "faces_detected": 33,
+  "frames": [
+    {
+      "frame_index": 10,
+      "timestamp": "2026-05-03T22:16:36.304+05:30",
+      "faces": [
+        {
+          "frame_index": 10,
+          "timestamp": "2026-05-03T22:16:36.304+05:30",
+          "face_index": 0,
+          "age": 19,
+          "gender": "Man",
+          "gender_confidence": 99.9836,
+          "bbox": {
+            "x": 268,
+            "y": 186,
+            "w": 185,
+            "h": 185
+          },
+          "face_confidence": 0.89
+        }
+      ]
+    },
+    {
+      "frame_index": 20,
+      "timestamp": "2026-05-03T22:16:42.090+05:30",
+      "faces": [
+        {
+          "frame_index": 20,
+          "timestamp": "2026-05-03T22:16:42.090+05:30",
+          "face_index": 0,
+          "age": 20,
+          "gender": "Man",
+          "gender_confidence": 99.952,
+          "bbox": {
+            "x": 252,
+            "y": 184,
+            "w": 186,
+            "h": 186
+          },
+          "face_confidence": 0.9
+        }
+      ]
+    },
+    {
+      "frame_index": 30,
+      "timestamp": "2026-05-03T22:16:42.620+05:30",
+      "faces": [
+        {
+          "frame_index": 30,
+          "timestamp": "2026-05-03T22:16:42.620+05:30",
+          "face_index": 0,
+          "age": 19,
+          "gender": "Man",
+          "gender_confidence": 99.974,
+          "bbox": {
+            "x": 253,
+            "y": 188,
+            "w": 182,
+            "h": 182
+          },
+          "face_confidence": 0.92
+        }
+      ]
+    },
+    {
+      "frame_index": 40,
+      "timestamp": "2026-05-03T22:16:43.152+05:30",
+      "faces": [
+        {
+          "frame_index": 40,
+          "timestamp": "2026-05-03T22:16:43.152+05:30",
+          "face_index": 0,
+          "age": 19,
+          "gender": "Man",
+          "gender_confidence": 99.9832,
+          "bbox": {
+            "x": 260,
+            "y": 189,
+            "w": 180,
+            "h": 180
+          },
+          "face_confidence": 0.91
+        }
+      ]
+    },
+    {
+      "frame_index": 50,
+      "timestamp": "2026-05-03T22:16:43.813+05:30",
+      "faces": [
+        {
+          "frame_index": 50,
+          "timestamp": "2026-05-03T22:16:43.813+05:30",
+          "face_index": 0,
+          "age": 19,
+          "gender": "Man",
+          "gender_confidence": 99.9713,
+          "bbox": {
+            "x": 263,
+            "y": 188,
+            "w": 183,
+            "h": 183
+          },
+          "face_confidence": 0.91
+        }
+      ]
+    },
+    {
+      "frame_index": 60,
+      "timestamp": "2026-05-03T22:16:44.333+05:30",
+      "faces": [
+        {
+          "frame_index": 60,
+          "timestamp": "2026-05-03T22:16:44.333+05:30",
+          "face_index": 0,
+          "age": 19,
+          "gender": "Man",
+          "gender_confidence": 99.9669,
+          "bbox": {
+            "x": 264,
+            "y": 187,
+            "w": 184,
+            "h": 184
+          },
+          "face_confidence": 0.91
+        }
+      ]
+    },
+    {
+      "frame_index": 70,
+      "timestamp": "2026-05-03T22:16:44.863+05:30",
+      "faces": [
+        {
+          "frame_index": 70,
+          "timestamp": "2026-05-03T22:16:44.863+05:30",
+          "face_index": 0,
+          "age": 19,
+          "gender": "Man",
+          "gender_confidence": 99.9744,
+          "bbox": {
+            "x": 269,
+            "y": 186,
+            "w": 181,
+            "h": 181
+          },
+          "face_confidence": 0.9
+        }
+      ]
+    },
+    {
+      "frame_index": 80,
+      "timestamp": "2026-05-03T22:16:45.411+05:30",
+      "faces": [
+        {
+          "frame_index": 80,
+          "timestamp": "2026-05-03T22:16:45.411+05:30",
+          "face_index": 0,
+          "age": 19,
+          "gender": "Man",
+          "gender_confidence": 99.9607,
+          "bbox": {
+            "x": 268,
+            "y": 186,
+            "w": 181,
+            "h": 181
+          },
+          "face_confidence": 0.89
+        }
+      ]
+    },
+    {
+      "frame_index": 90,
+      "timestamp": "2026-05-03T22:16:45.940+05:30",
+      "faces": [
+        {
+          "frame_index": 90,
+          "timestamp": "2026-05-03T22:16:45.940+05:30",
+          "face_index": 0,
+          "age": 19,
+          "gender": "Man",
+          "gender_confidence": 99.9655,
+          "bbox": {
+            "x": 264,
+            "y": 188,
+            "w": 182,
+            "h": 182
+          },
+          "face_confidence": 0.92
+        }
+      ]
+    },
+    {
+      "frame_index": 100,
+      "timestamp": "2026-05-03T22:16:46.471+05:30",
+      "faces": [
+        {
+          "frame_index": 100,
+          "timestamp": "2026-05-03T22:16:46.471+05:30",
+          "face_index": 0,
+          "age": 19,
+          "gender": "Man",
+          "gender_confidence": 99.9874,
+          "bbox": {
+            "x": 261,
+            "y": 188,
+            "w": 182,
+            "h": 182
+          },
+          "face_confidence": 0.92
+        }
+      ]
+    },
+    {
+      "frame_index": 110,
+      "timestamp": "2026-05-03T22:16:47.000+05:30",
+      "faces": [
+        {
+          "frame_index": 110,
+          "timestamp": "2026-05-03T22:16:47.000+05:30",
+          "face_index": 0,
+          "age": 19,
+          "gender": "Man",
+          "gender_confidence": 99.9782,
+          "bbox": {
+            "x": 264,
+            "y": 187,
+            "w": 184,
+            "h": 184
+          },
+          "face_confidence": 0.9
+        }
+      ]
+    },
+    {
+      "frame_index": 120,
+      "timestamp": "2026-05-03T22:16:47.529+05:30",
+      "faces": [
+        {
+          "frame_index": 120,
+          "timestamp": "2026-05-03T22:16:47.529+05:30",
+          "face_index": 0,
+          "age": 19,
+          "gender": "Man",
+          "gender_confidence": 99.9729,
+          "bbox": {
+            "x": 263,
+            "y": 188,
+            "w": 183,
+            "h": 183
+          },
+          "face_confidence": 0.91
+        }
+      ]
+    },
+    {
+      "frame_index": 130,
+      "timestamp": "2026-05-03T22:16:48.070+05:30",
+      "faces": [
+        {
+          "frame_index": 130,
+          "timestamp": "2026-05-03T22:16:48.070+05:30",
+          "face_index": 0,
+          "age": 22,
+          "gender": "Man",
+          "gender_confidence": 89.7062,
+          "bbox": {
+            "x": 263,
+            "y": 190,
+            "w": 182,
+            "h": 182
+          },
+          "face_confidence": 0.91
+        }
+      ]
+    },
+    {
+      "frame_index": 140,
+      "timestamp": "2026-05-03T22:16:48.613+05:30",
+      "faces": [
+        {
+          "frame_index": 140,
+          "timestamp": "2026-05-03T22:16:48.613+05:30",
+          "face_index": 0,
+          "age": 19,
+          "gender": "Man",
+          "gender_confidence": 99.9725,
+          "bbox": {
+            "x": 260,
+            "y": 189,
+            "w": 183,
+            "h": 183
+          },
+          "face_confidence": 0.92
+        }
+      ]
+    },
+    {
+      "frame_index": 150,
+      "timestamp": "2026-05-03T22:16:49.145+05:30",
+      "faces": [
+        {
+          "frame_index": 150,
+          "timestamp": "2026-05-03T22:16:49.145+05:30",
+          "face_index": 0,
+          "age": 19,
+          "gender": "Man",
+          "gender_confidence": 99.9569,
+          "bbox": {
+            "x": 263,
+            "y": 188,
+            "w": 185,
+            "h": 185
+          },
+          "face_confidence": 0.91
+        }
+      ]
+    },
+    {
+      "frame_index": 160,
+      "timestamp": "2026-05-03T22:16:49.675+05:30",
+      "faces": [
+        {
+          "frame_index": 160,
+          "timestamp": "2026-05-03T22:16:49.675+05:30",
+          "face_index": 0,
+          "age": 19,
+          "gender": "Man",
+          "gender_confidence": 99.9822,
+          "bbox": {
+            "x": 262,
+            "y": 186,
+            "w": 185,
+            "h": 185
+          },
+          "face_confidence": 0.91
+        }
+      ]
+    },
+    {
+      "frame_index": 170,
+      "timestamp": "2026-05-03T22:16:50.202+05:30",
+      "faces": [
+        {
+          "frame_index": 170,
+          "timestamp": "2026-05-03T22:16:50.202+05:30",
+          "face_index": 0,
+          "age": 18,
+          "gender": "Man",
+          "gender_confidence": 99.9636,
+          "bbox": {
+            "x": 264,
+            "y": 187,
+            "w": 185,
+            "h": 185
+          },
+          "face_confidence": 0.9
+        }
+      ]
+    },
+    {
+      "frame_index": 180,
+      "timestamp": "2026-05-03T22:16:50.863+05:30",
+      "faces": [
+        {
+          "frame_index": 180,
+          "timestamp": "2026-05-03T22:16:50.863+05:30",
+          "face_index": 0,
+          "age": 19,
+          "gender": "Man",
+          "gender_confidence": 99.9886,
+          "bbox": {
+            "x": 270,
+            "y": 192,
+            "w": 182,
+            "h": 182
+          },
+          "face_confidence": 0.92
+        }
+      ]
+    },
+    {
+      "frame_index": 190,
+      "timestamp": "2026-05-03T22:16:51.506+05:30",
+      "faces": [
+        {
+          "frame_index": 190,
+          "timestamp": "2026-05-03T22:16:51.506+05:30",
+          "face_index": 0,
+          "age": 19,
+          "gender": "Man",
+          "gender_confidence": 99.9838,
+          "bbox": {
+            "x": 268,
+            "y": 191,
+            "w": 185,
+            "h": 185
+          },
+          "face_confidence": 0.91
+        }
+      ]
+    },
+    {
+      "frame_index": 200,
+      "timestamp": "2026-05-03T22:16:52.106+05:30",
+      "faces": [
+        {
+          "frame_index": 200,
+          "timestamp": "2026-05-03T22:16:52.106+05:30",
+          "face_index": 0,
+          "age": 20,
+          "gender": "Man",
+          "gender_confidence": 99.9898,
+          "bbox": {
+            "x": 266,
+            "y": 196,
+            "w": 186,
+            "h": 186
+          },
+          "face_confidence": 0.92
+        }
+      ]
+    },
+    {
+      "frame_index": 210,
+      "timestamp": "2026-05-03T22:16:52.621+05:30",
+      "faces": [
+        {
+          "frame_index": 210,
+          "timestamp": "2026-05-03T22:16:52.621+05:30",
+          "face_index": 0,
+          "age": 19,
+          "gender": "Man",
+          "gender_confidence": 99.9739,
+          "bbox": {
+            "x": 267,
+            "y": 197,
+            "w": 191,
+            "h": 191
+          },
+          "face_confidence": 0.89
+        }
+      ]
+    },
+    {
+      "frame_index": 220,
+      "timestamp": "2026-05-03T22:16:53.287+05:30",
+      "faces": [
+        {
+          "frame_index": 220,
+          "timestamp": "2026-05-03T22:16:53.287+05:30",
+          "face_index": 0,
+          "age": 19,
+          "gender": "Man",
+          "gender_confidence": 99.9693,
+          "bbox": {
+            "x": 270,
+            "y": 199,
+            "w": 189,
+            "h": 189
+          },
+          "face_confidence": 0.89
+        }
+      ]
+    },
+    {
+      "frame_index": 230,
+      "timestamp": "2026-05-03T22:16:53.820+05:30",
+      "faces": [
+        {
+          "frame_index": 230,
+          "timestamp": "2026-05-03T22:16:53.820+05:30",
+          "face_index": 0,
+          "age": 20,
+          "gender": "Man",
+          "gender_confidence": 99.978,
+          "bbox": {
+            "x": 269,
+            "y": 201,
+            "w": 189,
+            "h": 189
+          },
+          "face_confidence": 0.92
+        }
+      ]
+    },
+    {
+      "frame_index": 240,
+      "timestamp": "2026-05-03T22:16:54.345+05:30",
+      "faces": [
+        {
+          "frame_index": 240,
+          "timestamp": "2026-05-03T22:16:54.345+05:30",
+          "face_index": 0,
+          "age": 20,
+          "gender": "Man",
+          "gender_confidence": 99.9733,
+          "bbox": {
+            "x": 271,
+            "y": 200,
+            "w": 193,
+            "h": 193
+          },
+          "face_confidence": 0.93
+        }
+      ]
+    },
+    {
+      "frame_index": 250,
+      "timestamp": "2026-05-03T22:16:54.886+05:30",
+      "faces": [
+        {
+          "frame_index": 250,
+          "timestamp": "2026-05-03T22:16:54.886+05:30",
+          "face_index": 0,
+          "age": 19,
+          "gender": "Man",
+          "gender_confidence": 99.9591,
+          "bbox": {
+            "x": 279,
+            "y": 192,
+            "w": 196,
+            "h": 196
+          },
+          "face_confidence": 0.97
+        }
+      ]
+    },
+    {
+      "frame_index": 260,
+      "timestamp": "2026-05-03T22:16:55.412+05:30",
+      "faces": [
+        {
+          "frame_index": 260,
+          "timestamp": "2026-05-03T22:16:55.412+05:30",
+          "face_index": 0,
+          "age": 20,
+          "gender": "Man",
+          "gender_confidence": 99.9708,
+          "bbox": {
+            "x": 277,
+            "y": 197,
+            "w": 195,
+            "h": 195
+          },
+          "face_confidence": 0.91
+        }
+      ]
+    },
+    {
+      "frame_index": 270,
+      "timestamp": "2026-05-03T22:16:55.945+05:30",
+      "faces": [
+        {
+          "frame_index": 270,
+          "timestamp": "2026-05-03T22:16:55.945+05:30",
+          "face_index": 0,
+          "age": 19,
+          "gender": "Man",
+          "gender_confidence": 99.9801,
+          "bbox": {
+            "x": 260,
+            "y": 196,
+            "w": 201,
+            "h": 201
+          },
+          "face_confidence": 0.95
+        }
+      ]
+    },
+    {
+      "frame_index": 280,
+      "timestamp": "2026-05-03T22:16:56.475+05:30",
+      "faces": [
+        {
+          "frame_index": 280,
+          "timestamp": "2026-05-03T22:16:56.475+05:30",
+          "face_index": 0,
+          "age": 19,
+          "gender": "Man",
+          "gender_confidence": 99.9785,
+          "bbox": {
+            "x": 265,
+            "y": 200,
+            "w": 195,
+            "h": 195
+          },
+          "face_confidence": 0.94
+        }
+      ]
+    },
+    {
+      "frame_index": 290,
+      "timestamp": "2026-05-03T22:16:57.009+05:30",
+      "faces": [
+        {
+          "frame_index": 290,
+          "timestamp": "2026-05-03T22:16:57.009+05:30",
+          "face_index": 0,
+          "age": 20,
+          "gender": "Man",
+          "gender_confidence": 99.956,
+          "bbox": {
+            "x": 260,
+            "y": 198,
+            "w": 199,
+            "h": 199
+          },
+          "face_confidence": 0.93
+        }
+      ]
+    },
+    {
+      "frame_index": 300,
+      "timestamp": "2026-05-03T22:16:57.662+05:30",
+      "faces": [
+        {
+          "frame_index": 300,
+          "timestamp": "2026-05-03T22:16:57.662+05:30",
+          "face_index": 0,
+          "age": 20,
+          "gender": "Man",
+          "gender_confidence": 99.9823,
+          "bbox": {
+            "x": 259,
+            "y": 197,
+            "w": 196,
+            "h": 196
+          },
+          "face_confidence": 0.91
+        }
+      ]
+    },
+    {
+      "frame_index": 310,
+      "timestamp": "2026-05-03T22:16:58.331+05:30",
+      "faces": [
+        {
+          "frame_index": 310,
+          "timestamp": "2026-05-03T22:16:58.331+05:30",
+          "face_index": 0,
+          "age": 19,
+          "gender": "Man",
+          "gender_confidence": 99.9855,
+          "bbox": {
+            "x": 265,
+            "y": 200,
+            "w": 192,
+            "h": 192
+          },
+          "face_confidence": 0.93
+        }
+      ]
+    },
+    {
+      "frame_index": 320,
+      "timestamp": "2026-05-03T22:16:58.900+05:30",
+      "faces": [
+        {
+          "frame_index": 320,
+          "timestamp": "2026-05-03T22:16:58.900+05:30",
+          "face_index": 0,
+          "age": 19,
+          "gender": "Man",
+          "gender_confidence": 99.9749,
+          "bbox": {
+            "x": 262,
+            "y": 195,
+            "w": 198,
+            "h": 198
+          },
+          "face_confidence": 0.93
+        }
+      ]
+    },
+    {
+      "frame_index": 330,
+      "timestamp": "2026-05-03T22:16:59.621+05:30",
+      "faces": [
+        {
+          "frame_index": 330,
+          "timestamp": "2026-05-03T22:16:59.621+05:30",
+          "face_index": 0,
+          "age": 20,
+          "gender": "Man",
+          "gender_confidence": 99.9373,
+          "bbox": {
+            "x": 259,
+            "y": 202,
+            "w": 194,
+            "h": 194
+          },
+          "face_confidence": 0.94
+        }
+      ]
+    }
+  ]
+}
